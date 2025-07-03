@@ -1,2 +1,2 @@
 # test
-this is a school management system to manage a school and students
+this is my first html file
